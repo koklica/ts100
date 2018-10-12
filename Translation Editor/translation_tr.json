@@ -1,11 +1,11 @@
 {
 	"languageCode": "TR",
 	"messages": {
-		"SettingsCalibrationDone": "Calibration done!",
+		"SettingsCalibrationDone": "Kalibrasyon tamamlandı!",
 		"SettingsCalibrationWarning": "Lütfen devam etmeden önce ucun oda sıcaklığında olduğunu garantiye alın!",
-		"SettingsResetWarning": "Are you sure to reset settings to default values?",
-		"UVLOWarningString": "DC LOW",
-		"UndervoltageString": "Undervoltage",
+		"SettingsResetWarning": "Ayarları varsayılan değerlere sıfırlayacaksınız ! emin misiniz?",
+		"UVLOWarningString": "DC DÜŞÜK",
+		"UndervoltageString": "Düşük gerilim",
 		"InputVoltageString": "Input V: ",
 		"WarningTipTempString": "Tip Temp: ",
 		"BadTipString": "BAD TIP",
